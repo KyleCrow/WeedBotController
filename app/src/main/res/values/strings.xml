@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WeedBot Controller</string>
+    <string name="nullText"></string>
+    <string name="BtText">Veuillez activer le Bluetooth</string>
+    <string name="BtButton">Activer le Bluetooth</string>
+    <string name="btStatusOn">Connecté</string>
+    <string name="btStatusOff">Déconnecté</string>
+    <string name="TimeText">Temps de fonctionnement: </string>
+    <string name="LiquidText">Etat du niveau de désherbant: </string>
+    <string name="LiquidLow">Vide / Bas</string>
+    <string name="LiquidHigh">Plein / Suffisant</string>
+    <string name="BatteryText">Etat du niveau de Batterie: </string>
+    <string name="BatteryLow">Vide / Bas</string>
+    <string name="BatteryHigh">Plein / Suffisant</string>
+    <string name="LiquidQText">Quantité de liquide projetée: </string>
+    <string name="ScoreText">Nombre de plantes aspergées: </string>
+    <string name="HighScoreText">Highscore: </string>
+    <string name="ControlTitle">Contrôle</string>
+    <string name="StatTitle">Statistiques</string>
+    <string name="MotorStateSwitch">Moteurs</string>
+    <string name="CorrectionStateSwitch">Correction de trajectoire</string>
+</resources>
