@@ -11,4 +11,4 @@ https://github.com/KyleCrow/WeedBotController/blob/master/app/src/main/java/com/
 Thread de communication avec l'appareil:<br/>
 https://github.com/KyleCrow/WeedBotController/blob/master/app/src/main/java/com/sti/weedbotcontroller/bluetooth/ConnectedThread.java <br/>
 Thread de mise à jour du temps:<br/>
-https://github.com/KyleCrow/WeedBotController/blob/master/appsrc/main/java/com/sti/weedbotcontroller/time/TimeThread.java
+https://github.com/KyleCrow/WeedBotController/blob/master/app/src/main/java/com/sti/weedbotcontroller/time/TimeThread.java
